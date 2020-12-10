@@ -22,7 +22,6 @@ import com.example.todoapp.fragment.list.adapter.ListAdapter
 import com.example.todoapp.hideKeyBoard
 import com.google.android.material.snackbar.Snackbar
 import jp.wasabeef.recyclerview.animators.LandingAnimator
-import kotlinx.android.synthetic.main.fragment_list.*
 import kotlinx.android.synthetic.main.fragment_list.view.*
 
 

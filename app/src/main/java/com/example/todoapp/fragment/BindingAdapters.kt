@@ -4,7 +4,6 @@ import android.view.View
 import android.widget.Spinner
 import androidx.cardview.widget.CardView
 import androidx.constraintlayout.widget.ConstraintLayout
-import androidx.core.content.ContextCompat
 import androidx.databinding.BindingAdapter
 import androidx.lifecycle.MutableLiveData
 import androidx.navigation.findNavController
@@ -13,7 +12,6 @@ import com.example.todoapp.data.Priority
 import com.example.todoapp.data.ToDoData
 import com.example.todoapp.fragment.list.ListFragmentDirections
 import com.google.android.material.floatingactionbutton.FloatingActionButton
-import kotlinx.android.synthetic.main.row_layout.view.*
 
 class BindingAdapters {
 

@@ -1,7 +1,6 @@
 package com.example.todoapp.data
 
 import androidx.lifecycle.LiveData
-import androidx.room.Query
 
 class ToDoRepository(private val toDoDao: ToDoDao){
 

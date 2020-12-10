@@ -1,7 +1,6 @@
 package com.example.todoapp.fragment.update
 
 import android.app.AlertDialog
-import android.content.DialogInterface
 import android.os.Bundle
 import android.view.*
 import android.widget.Toast
@@ -16,7 +15,6 @@ import com.example.todoapp.databinding.FragmentListBinding
 import com.example.todoapp.databinding.FragmentUpdateBinding
 import com.example.todoapp.fragment.SharedViewModel
 import kotlinx.android.synthetic.main.fragment_update.*
-import kotlinx.android.synthetic.main.fragment_update.view.*
 
 class UpdateFragment : Fragment() {
 

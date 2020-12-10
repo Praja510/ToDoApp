@@ -10,7 +10,6 @@ import androidx.recyclerview.widget.RecyclerView
 import com.example.todoapp.R
 import com.example.todoapp.data.Priority
 import com.example.todoapp.data.ToDoData
-import com.example.todoapp.fragment.list.ListFragment
 import com.example.todoapp.fragment.list.ListFragmentDirections
 import kotlinx.android.synthetic.main.row_layout.view.*
 
